@@ -17,15 +17,15 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/arduino.svg" alt="arduino" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/css.svg" alt="css" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/git.svg" alt="git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/go.svg" alt="go" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/graphql.svg" alt="graphql" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/html.svg" alt="html" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/javascript.svg" alt="javascript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/linux.svg" alt="linux" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/typescript.svg" alt="typescript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/arduino.svg" alt="arduino" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/css.svg" alt="css" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/git.svg" alt="git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/go.svg" alt="go" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/graphql.svg" alt="graphql" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/html.svg" alt="html" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/javascript.svg" alt="javascript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/linux.svg" alt="linux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/tech/typescript.svg" alt="typescript" width="60" height="60"/>
 </p>
 
 <h3 align="center">
