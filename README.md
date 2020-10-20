@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+  Hi, I'm Iram Díaz
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+</h1>
 
-<!--
-**iramdiaz/iramdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  A passionate backend developer and hardware hobbyist from México
+</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a MVP for a startup, a robotic arm that organize hardware things.
+- 🌱 I’m currently learning Google Cloud Platform, GraphQL.
+- 👯 I’m looking to collaborate on an open source hardware project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  Languages and tools:
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/arduino.svg" alt="arduino" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/css.svg" alt="css" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/git.svg" alt="git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/go.svg" alt="go" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/graphql.svg" alt="graphql" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/html.svg" alt="html" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/javascript.svg" alt="javascript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/linux.svg" alt="linux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/tech/typescript.svg" alt="typescript" width="60" height="60"/>
+</p>
+
+<h3 align="center">
+  Contact me:
+</h3>
+<p align="center">
+  <a href="https://linkedin.com/iramdiaz"><img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/social/codepen.svg" alt="codepen" width="35" height="35"/></a>
+  <a href="https://linkedin.com/iramdiaz"><img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/social/discord.svg" alt="discord" width="35" height="35"/></a>
+  <a href="https://linkedin.com/iramdiaz"><img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/social/linkedin.svg" alt="linkedin" width="35" height="35"/></a>
+  <a href="https://stackoverflow.com/iramdiaz"><img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/social/stack-overflow.svg" alt="stack overflow" width="35" height="35"/></a>
+  <a href="https://twitter.com/iramdiaz"><img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/social/twitter.svg" alt="twitter" width="35" height="35"/></a>
+  <a href="https://iramdiaz.com"><img src="https://raw.githubusercontent.com/sinnstral/sinnstral/main/assets/social/website.svg" alt="website" width="35" height="35"/></a>
+</p>
+  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinnstral&layout=compact" alt="sinnstral"/>
+</p>
