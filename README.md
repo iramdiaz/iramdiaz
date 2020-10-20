@@ -8,9 +8,11 @@
   A passionate backend developer and hardware hobbyist from México
 </h3>
 
+<p align="center">
 - 🔭 I’m currently working on a MVP for a startup, a robotic arm that organize hardware things.
 - 🌱 I’m currently learning Google Cloud Platform, GraphQL.
 - 👯 I’m looking to collaborate on an open source hardware project.
+</p>
 
 <h3 align="center">
   Languages and tools:
