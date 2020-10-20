@@ -32,7 +32,6 @@
   Contact me:
 </h3>
 <p align="center">
-  <a href="https://discord.com/iramdiaz"><img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/social/discord.svg" alt="discord" width="40" height="40"/></a>
   <a href="https://linkedin.com/iramdiaz"><img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/social/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
   <a href="https://twitch.com/iramdiaz"><img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/social/twitch.svg" alt="twitch" width="40" height="40"/></a>
   <a href="https://twitter.com/iramdiaz"><img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/social/twitter.svg" alt="twitter" width="40" height="40"/></a>
