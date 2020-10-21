@@ -38,6 +38,12 @@
   <a href="https://iramdiaz.com"><img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/social/website.svg" alt="website" width="40" height="40"/></a>
   <a href="https://youtube.com/iramdiaz"><img src="https://raw.githubusercontent.com/iramdiaz/iramdiaz/main/assets/social/youtube.svg" alt="youtube" width="40" height="40"/></a>
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramdiaz&layout=compact" alt="iramdiaz"/>
+  <a href="https://github.com/iramdiaz/iramdiaz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramdiaz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/iramdiaz/iramdiaz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iramdiaz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Iramdiaz's GitHub Stats" />
+  </a>
 </p>
